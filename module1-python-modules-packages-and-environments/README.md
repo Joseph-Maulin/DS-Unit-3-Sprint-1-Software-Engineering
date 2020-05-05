@@ -1,3 +1,5 @@
+Joseph Maulin
+
 # Python Modules, Packages, and Environments
 
 Places for your code (and dependencies) to live.
